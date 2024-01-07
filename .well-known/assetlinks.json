@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sds.efss.drive",
+    "sha256_cert_fingerprints":
+    ["19:BA:21:2B:07:F0:5D:D8:2A:96:90:FE:2A:F3:77:3C:3E:ED:59:B4:D6:26:17:39:44:6F:31:3E:21:1C:D5:C4"]
+  }
+}]
