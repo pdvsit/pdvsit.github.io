@@ -1,0 +1,15 @@
+{
+    "applinks": {
+ 	 "details": [
+           {
+                "appIDs":["LLVDH2GU5H.com.sds.efss.drive"],
+                "components" : [
+		{
+			"/":"/*",
+			"comment": "Testing"
+		}
+		]
+            }
+        ]
+	}
+}
